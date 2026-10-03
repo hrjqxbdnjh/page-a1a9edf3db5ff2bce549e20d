@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e50d4210f5.boyangerp.cn/sitemap.xml
